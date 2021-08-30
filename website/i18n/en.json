@@ -6,20 +6,46 @@
     "tagline": "A website for testing",
     "docs": {
       "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
+        "title": "Best Practices"
       },
       "doc2": {
-        "title": "document number 2"
+        "title": "three.js로 개발하기"
       },
       "doc3": {
-        "title": "This is document number 3"
+        "title": "엔티티 컴포넌트 시스템"
       },
       "doc4": {
-        "title": "Other Document"
+        "title": "자주 묻는 질문"
       },
       "doc5": {
-        "title": "Fifth Document"
+        "title": "호스팅 & 게시"
+      },
+      "doc6": {
+        "title": "HTML 및 Primitives"
+      },
+      "doc7": {
+        "title": "Introduction"
+      },
+      "doc8": {
+        "title": "설치"
+      },
+      "doc9": {
+        "title": "상호 작용 및 컨트롤러"
+      },
+      "doc10": {
+        "title": "JavaScript, Events, DOM APIs"
+      },
+      "doc11": {
+        "title": "3D 모델"
+      },
+      "doc12": {
+        "title": "비주얼 인스펙터 및 개발 도구"
+      },
+      "doc13": {
+        "title": "VR 헤드셋 및 WebVR 브라우저"
+      },
+      "doc14": {
+        "title": "구성 요소 작성"
       }
     },
     "links": {
